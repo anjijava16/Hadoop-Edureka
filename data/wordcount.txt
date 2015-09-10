@@ -1,0 +1,13 @@
+Big Data and Hadoop training course is designed to provide knowledge and skills to become a successful Hadoop Developer. In-depth knowledge of concepts such as Hadoop Distributed File System, Hadoop Cluster, Map-Reduce, Hbase Zookeeper etc. will be covered in the course.
+Course Objectives
+After the completion of the Hadoop Course at Edureka, you should be able to:
+Master the concepts of Hadoop Distributed File System.
+Understand Cluster Setup and Installation.
+Understand MapReduce and Functional programming.
+Implement HBase, MapReduce Integration, Advanced Usage and Advanced Indexing. 
+Have a good understanding of ZooKeeper service and Sqoop.
+Develop a working Hadoop Architecture.
+Who should go for this course?
+This course is designed for developers with some programming experience (preferably Java) who are looking forward to acquire a solid foundation of Hadoop Architecture. Existing knowledge of Hadoop is not required for this course.
+Pre-requisites
+Some of the prerequisites for learning Hadoop include hands-on experience in Java and good analytical skills to grasp and apply the concepts in Hadoop. 

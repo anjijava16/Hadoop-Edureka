@@ -1,0 +1,7 @@
+4) Flume is already present. To execute flume, follow below commands:
+
+	i) cd /usr/lib/flume-ng/apache-flume-1.4.0-bin/bin/
+
+       ii) ./flume-ng agent -n TwitterAgent -c conf -f /usr/lib/flume-ng/apache-flume-1.4.0-bin/conf/flume.conf
+
+After sometime press ctrl + c to stop streaming the data. Go and check /user/flume/tweets on your HDFS, a flume file will be there which has streamed data.
